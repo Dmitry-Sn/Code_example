@@ -6,3 +6,6 @@
 # Task W
  Example of my code in Python.
  Test task of one of the interview. Has visualization and explanation of the code in Russian.
+ 
+ # Titanic Kaggle
+ Example of my code in Python for Titanic Kaggle Competition. Numbers after the name of .ipynb files are scores of each solution.
